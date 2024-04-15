@@ -1,0 +1,12 @@
+.idea
+
+*.so
+*.dylib
+
+*.test
+
+*.out
+
+vendor/
+
+go.work
